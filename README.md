@@ -11,11 +11,3 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
 </h3>
-<br />
-<h2 align="center">✨ Others ✨</h2>
-<h3 align="center">
-<br />
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-<a href="https://velog.io/@ung7497"></a>&nbsp 
-<img src="https://img.shields.io/badge/Goolge-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
-</h3>
