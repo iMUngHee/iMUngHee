@@ -1,6 +1,6 @@
 # Unghee Lee
 
-who cares? Anyways,
+who cares? Anyway,
 
 **it's a very favourite Song for me.**
 
